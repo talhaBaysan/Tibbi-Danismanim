@@ -1,2 +1,2 @@
 # Tibbi Danismanim
- Uzaman Sistemler Dönem Projesi
+ Uzman Sistemler Dönem Projesi
